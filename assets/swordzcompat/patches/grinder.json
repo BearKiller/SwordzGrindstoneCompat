@@ -1,21 +1,139 @@
 [
-  {
-    "op": "add",
-    "path": "/attributes/sharpenable",
-    "value": true,
-    "file": "toolsplus:itemtypes/pickaxeplus.json"
-  },
-  {
-    "op": "add",
-    "path": "/attributes/onGrindstoneTransform",
-    "value": {
-		translation: { x: -0.15, y: 0.45, z: 0.35 },
-		rotation: { x: 40, y: 0, z: 0 },
-		origin: { x: 0.5, y: 0.1, z: 0.5 },
-		scale: 1
+	{
+		"op": "add",
+		"path": "/attributes/sharpenable",
+		"value": true,
+		"file": "swordz:itemtypes/swords/armingsword.json"
 	},
-    "file": "toolsplus:itemtypes/pickaxeplus.json"
-  },
-  
-  
+	{
+		"op": "add",
+		"path": "/attributes/onGrindstoneTransform",
+		"value": {
+			translation: { x: -0.15, y: 0.45, z: 0.35 },
+			rotation: { x: 40, y: 0, z: 0 },
+			origin: { x: 0.5, y: 0.1, z: 0.5 },
+			scale: 1
+			},
+		"file": "swordz:itemtypes/swords/armingsword.json"
+	},
+	{
+		"op": "add",
+		"path": "/attributes/sharpenable",
+		"value": true,
+		"file": "swordz:itemtypes/swords/gladius.json"
+	},
+	{
+		"op": "add",
+		"path": "/attributes/onGrindstoneTransform",
+		"value": {
+			translation: { x: -0.15, y: 0.45, z: 0.35 },
+			rotation: { x: 40, y: 0, z: 0 },
+			origin: { x: 0.5, y: 0.1, z: 0.5 },
+			scale: 1
+			},
+		"file": "swordz:itemtypes/swords/gladius.json"
+	},
+	{
+		"op": "add",
+		"path": "/attributes/sharpenable",
+		"value": true,
+		"file": "swordz:itemtypes/swords/khopesh.json"
+	},
+	{
+		"op": "add",
+		"path": "/attributes/onGrindstoneTransform",
+		"value": {
+			translation: { x: -0.15, y: 0.45, z: 0.35 },
+			rotation: { x: 40, y: 0, z: 0 },
+			origin: { x: 0.5, y: 0.1, z: 0.5 },
+			scale: 1
+			},
+		"file": "swordz:itemtypes/swords/khopesh.json"
+	},
+	{
+		"op": "add",
+		"path": "/attributes/sharpenable",
+		"value": true,
+		"file": "swordz:itemtypes/swords/killij.json"
+	},
+	{
+		"op": "add",
+		"path": "/attributes/onGrindstoneTransform",
+		"value": {
+			translation: { x: -0.15, y: 0.45, z: 0.35 },
+			rotation: { x: 40, y: 0, z: 0 },
+			origin: { x: 0.5, y: 0.1, z: 0.5 },
+			scale: 1
+			},
+		"file": "swordz:itemtypes/swords/killij.json"
+	},
+	{
+		"op": "add",
+		"path": "/attributes/sharpenable",
+		"value": true,
+		"file": "swordz:itemtypes/swords/longsword.json"
+	},
+	{
+		"op": "add",
+		"path": "/attributes/onGrindstoneTransform",
+		"value": {
+			translation: { x: -0.15, y: 0.45, z: 0.35 },
+			rotation: { x: 40, y: 0, z: 0 },
+			origin: { x: 0.5, y: 0.1, z: 0.5 },
+			scale: 1
+			},
+		"file": "swordz:itemtypes/swords/longsword.json"
+	},
+	{
+		"op": "add",
+		"path": "/attributes/sharpenable",
+		"value": true,
+		"file": "swordz:itemtypes/swords/sabre.json"
+	},
+	{
+		"op": "add",
+		"path": "/attributes/onGrindstoneTransform",
+		"value": {
+			translation: { x: -0.15, y: 0.45, z: 0.35 },
+			rotation: { x: 40, y: 0, z: 0 },
+			origin: { x: 0.5, y: 0.1, z: 0.5 },
+			scale: 1
+			},
+		"file": "swordz:itemtypes/swords/sabre.json"
+	},
+	{
+		"op": "add",
+		"path": "/attributes/sharpenable",
+		"value": true,
+		"file": "swordz:itemtypes/swords/spatha.json"
+	},
+	{
+		"op": "add",
+		"path": "/attributes/onGrindstoneTransform",
+		"value": {
+			translation: { x: -0.15, y: 0.45, z: 0.35 },
+			rotation: { x: 40, y: 0, z: 0 },
+			origin: { x: 0.5, y: 0.1, z: 0.5 },
+			scale: 1
+			},
+		"file": "swordz:itemtypes/swords/spatha.json"
+	},
+	{
+		"op": "add",
+		"path": "/attributes/sharpenable",
+		"value": true,
+		"file": "swordz:itemtypes/swords/zweihander.json"
+	},
+	{
+		"op": "add",
+		"path": "/attributes/onGrindstoneTransform",
+		"value": {
+			translation: { x: -0.15, y: 0.45, z: 0.35 },
+			rotation: { x: 40, y: 0, z: 0 },
+			origin: { x: 0.5, y: 0.1, z: 0.5 },
+			scale: 1
+			},
+		"file": "swordz:itemtypes/swords/zweihander.json"
+	},
+
 ]
