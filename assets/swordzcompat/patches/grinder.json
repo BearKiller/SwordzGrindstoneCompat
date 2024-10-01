@@ -1,0 +1,21 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/sharpenable",
+    "value": true,
+    "file": "toolsplus:itemtypes/pickaxeplus.json"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/onGrindstoneTransform",
+    "value": {
+		translation: { x: -0.15, y: 0.45, z: 0.35 },
+		rotation: { x: 40, y: 0, z: 0 },
+		origin: { x: 0.5, y: 0.1, z: 0.5 },
+		scale: 1
+	},
+    "file": "toolsplus:itemtypes/pickaxeplus.json"
+  },
+  
+  
+]
