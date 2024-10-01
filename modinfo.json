@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "swordzcompat",
+  "name": "Swordz Grindstone Compatability",
+  "description": "Adds grindstone functionality to weapons introduced in Swordz.",
+  "authors": ["BearKiller"],
+  "version": "0.1",
+  "dependency": {
+	  "game": "1.19.8"
+  }
+}
