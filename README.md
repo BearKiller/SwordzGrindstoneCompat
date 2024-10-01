@@ -5,12 +5,17 @@ Weapons like the halberd and stiletto are in kinda wonky positions on the grinds
 
 ## Requirements
 
-### Still Necessaries
-Continuation of the Necessaries mod. Adds the grindstone.
-https://mods.vintagestory.at/show/mod/5906
-Tested using version 1.1.2. Should work forever so long as the attributes don't change.
+- ### Still Necessaries
+  Continuation of the Necessaries mod. Adds the grindstone. 
 
-### Swordz
-Adds the swordz.
-https://mods.vintagestory.at/swordz
-Tested using version 1.1.8. 
+  [Link](https://mods.vintagestory.at/show/mod/5906)
+
+  Tested using version 1.1.2. Should work forever so long as the attributes don't change.
+
+
+- ### Swordz
+  Adds the swordz.
+
+  [Link](https://mods.vintagestory.at/swordz)
+
+  Tested using version 1.1.8. 
